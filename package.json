@@ -1,0 +1,14 @@
+{
+  "name": "bun_boiler_plate",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev":"bun run index.js"
+  },
+  "devDependencies": {
+    
+  },
+  "peerDependencies": {
+    
+  }
+}
